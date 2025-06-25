@@ -1,4 +1,8 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Suman+Maharjan" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Suman+Maharjan" alt="Typing SVG" />
+  </a>
+</p>
 <h3 align="center">A passionate UI/UX Designer from Nepal</h3>
 
 - 🔭 I’m currently working on [Saral Apps](https://saralapps.com/)
