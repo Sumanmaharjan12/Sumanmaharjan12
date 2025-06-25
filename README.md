@@ -48,25 +48,10 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sumanmaharjan12&theme=gruvbox&row=1&column=6" />
-</p>
+
 
 ---
 
 ### ⚡ Fun Fact
 > 🎨 I love blending **design with code** to make things both functional and beautiful.
-
----
-
-### ✨ Extras (optional - animated badges)
-
-<p align="center">
-  <img src="https://github.com/sumanmaharjan12/sumanmaharjan12/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-> 💡 Tip: Make sure your repo name is the same as your GitHub username (`sumanmaharjan12`) to enable this profile README to show up on your main profile page.
 
