@@ -41,8 +41,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumanmaharjan12&show_icons=true&theme=algolia&hide_title=true" />
-  <br><br>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanmaharjan12&layout=compact&theme=algolia" />
 </p>
 
